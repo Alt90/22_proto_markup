@@ -1,6 +1,8 @@
 # Suppliers in Novosibirsk
 
-[TODO. There will be project description]
+### Сайт поставщиков из новоибирска
+
+Данный сайт свёрстан в учебных целях и размещён на [github.io](https://alt90.github.io/22_proto_markup/index.html)
 
 # Project Goals
 
